@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 this is my local commit
-=======
-my remote dummy commit
->>>>>>> a37e4fc3c371c34c2f4ef14db54633f8e3b58b9f
+my remote dummy commit 
+that is
